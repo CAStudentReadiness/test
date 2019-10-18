@@ -1,9 +1,17 @@
-title: test
-tagline: A brand new course on Learning Lab
-description: test
+title: 'Course #1 - What makes a good public speaker?'
+tagline: 'Learn tips, tricks, and best practices for presenting!'
+description: >-
+  Whether it's a meeting, presentation, conference talk, wedding toast,
+  interview, or on-stage keynote- public speaking opportunities are everywhere.
+  Though it may seem like engineers sit behind a computer all day, having the
+  confidence to connect and present to an audience can be key to your growth and
+  success! In this course, we'll take a look at examples of what makes a good
+  presenter,and use these examples to show what small changes you can make to
+  your presenting style to stand out from the crowd.
 template:
-  repo: test-template
-  name: test
+  repo: good-public-speaker-course
+  name: Good Public Speaker Course
+  description: 'Repository for Course #1 - What makes a good public speaker?'
 before:
   - type: createIssue
     title: Welcome!
